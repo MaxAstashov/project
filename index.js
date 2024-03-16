@@ -4,7 +4,7 @@ penisLength < 15 ? alert('Hi,короткоствол!') : alert ('Hi,пизда
 console.log(4 + +'5');
 
 let incr = 10,
-    decr = 10;
+	decr = 10;
 
 incr++;
 
